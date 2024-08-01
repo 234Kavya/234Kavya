@@ -1,6 +1,6 @@
 <h1 align="center">Open the Door, It's Code Time!!</h1>
 <h3 align="center">From 0s & 1s to Infinity: My Adventures in Code</h3>
-<p>👋 Hey ! I'm Kavya Kothari, a third-year Computer Science and Engineering enthusiast on a mission to make a positive impact through technology.
+<p>👋 Hey ! I'm Kavya Kothari, a final-year Computer Science and Engineering enthusiast on a mission to make a positive impact through technology.
 
 🚀 Passionate about learning and building, I'm constantly seeking out new challenges to fuel my growth. As a quick learner, I thrive on diving into complex problems and collaborating with like-minded individuals to find elegant solutions.
 
