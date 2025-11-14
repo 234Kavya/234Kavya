@@ -15,37 +15,14 @@ My work blends product sense, data-thinking, and engineering to turn ideas into 
 
 ---
 
-## 🧩 Featured Product Projects
-### 🍲 **WhatToCook** – Smart Recipe Discovery  
-Empathy-driven filtering system (cuisine, dish type, cooking time) to simplify everyday cooking.  
-➡️ *[View Repo](YOUR_LINK_HERE)*
-
-### 💰 **Personal Finance Tracker**  
-Clean, student-friendly budgeting + categorization system designed for clarity and ease.  
-➡️ *[View Repo](YOUR_LINK_HERE)*
-
-### 🗳 **LokSabha Lens** (Data Storytelling)
-20-year election insights visualized with dashboards + clear narratives.  
-➡️ *[View Repo](YOUR_LINK)* (optional, if you want to add)
-
----
-
-## 🛠 Skills & Tools  
-**Product:** PRDs, User Research, Funnels, A/B Testing, Prioritization (RICE, MoSCoW)  
-**Data:** SQL, Mixpanel, Power BI, Tableau, Pandas  
-**Design:** Figma, Prototyping, UX Flows  
-**Tech:** React, Vue.js, Java, Python, PHP, REST APIs  
-
----
-
 ## 🌱 Currently Exploring  
 Growth analytics • Experimentation • User behavior insights • Product strategy  
 
 ---
 
 ## 📫 Connect With Me  
-**LinkedIn:** YOUR_LINK  
-**Portfolio:** YOUR_LINK  
+**LinkedIn:** https://www.linkedin.com/in/kavya-kotharii/  
+**Portfolio:** https://234kavya.github.io/Portfolio/
 **Email:** 234kavya@gmail.com  
 
 ---
