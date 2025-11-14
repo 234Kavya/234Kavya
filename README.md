@@ -19,11 +19,11 @@ My work blends product sense, data-thinking, and engineering to turn ideas into 
 Growth analytics • Experimentation • User behavior insights • Product strategy  
 
 ---
-
 ## 📫 Connect With Me  
-**LinkedIn:** https://www.linkedin.com/in/kavya-kotharii/  
-**Portfolio:** https://234kavya.github.io/Portfolio/
-**Email:** 234kavya@gmail.com  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kavya%20Kothari-blue?logo=linkedin)](https://www.linkedin.com/in/kavya-kotharii)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=vercel)](https://234kavya.github.io/Portfolio)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:234kavya@gmail.com)
 
 ---
 
